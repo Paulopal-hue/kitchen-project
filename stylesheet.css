@@ -1,0 +1,50 @@
+/* .........kitchen....... */
+
+
+
+/* .......furniture................... */
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+ul{ margin-right: 100px;
+
+
+}
+
+.navbar-nav li a{
+    
+    color:brown;
+    font-family:sans-serif;
+    margin: 15px;
+    font-size: 1rem;
+    margin: 10px;
+
+}
+.navbar-nav li a:hover{
+
+    color: rgb(109, 47, 255);
+
+
+
+}
+
+.intro-mage img{
+    height: 330px;
+    width: 256px;
+    transform: translateX(200px);
+
+}
+
+.banner .container-fluid{
+    margin-top: 100px;
+}
+
+.card .col{
+    border-top-left-radius: 45px;
+}
